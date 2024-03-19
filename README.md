@@ -1,1 +1,1 @@
-# processing MODIS level 3 productions 
+# MODIS land products
